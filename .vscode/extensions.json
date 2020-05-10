@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "doggy8088.netcore-extension-pack",
+        "formulahendry.dotnet-test-explorer",
+        "ms-dotnettools.csharp",
+        "ryanluker.vscode-coverage-gutters",
+        "urbanoanderson.vscode-coverlet",
+        "maurobussini.vscode-dotnet-essentials",
+        "fudge.auto-using",
+        "kreativ-software.csharpextensions",
+        "adrianwilczynski.asp-net-core-snippet-pack",
+        "fakesharper.fakesharper",
+        "EditorConfig.EditorConfig",
+        "fernandoescolar.vscode-solution-explorer"
+    ]
+}

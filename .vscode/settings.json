@@ -1,0 +1,20 @@
+{
+    "dotnet-test-explorer.testProjectPath": "**/*Test.csproj",
+    "dotnet-test-explorer.autoWatch": true,
+    "dotnet-test-explorer.testArguments": "/p:CollectCoverage=true /p:CoverletOutputFormat=lcov /p:CoverletOutput=./lcov.info",
+    "cSpell.words": [
+        "Xunit"
+    ],
+    "omnisharp.enableRoslynAnalyzers": true,
+    "csharpfixformat.sort.usings.enabled": true,
+    "csharpfixformat.sort.usings.systemFirst": false,
+    "csharpfixformat.style.braces.onSameLine": false,
+    "csharpfixformat.style.spaces.beforeParenthesis": false,
+    "csharpfixformat.style.spaces.afterParenthesis": false,
+    "coverage-gutters.showGutterCoverage": true,
+    "coverage-gutters.showLineCoverage ": true,
+    "editor.formatOnSave": true,
+    "[csharp]": {
+        "editor.defaultFormatter": "Leopotam.csharpfixformat"
+    }
+}
